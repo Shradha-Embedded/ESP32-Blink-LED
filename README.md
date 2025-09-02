@@ -68,6 +68,6 @@ By completing this project, you will understand:
 ---
 
 ## 👩‍💻 Author
-**Chetana Sunil Mohite**  
+**Shradha Sunil Mohite**  
 📍 Embedded Systems & Arduino Learner  
-🔗 [GitHub Profile](https://github.com/your-username)
+🔗 [GitHub Profile](https://github.com/Shradha-Embedded)
